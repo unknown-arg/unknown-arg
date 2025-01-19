@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @unknown-arg
 - 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning computer networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i'm just a 9th grade student.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing.
 
 <!---
 unknown-arg/unknown-arg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
